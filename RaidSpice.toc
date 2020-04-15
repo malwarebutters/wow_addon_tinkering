@@ -1,0 +1,9 @@
+## Interface: 80000
+## Title: RaidSpice
+## Author: Methcoil - Whitemane
+## Version: 1.0
+## DefaultState: Enabled
+## LoadOnDemand: 0
+## SavedVariables: GlobalStats
+
+RaidSpice.xml
